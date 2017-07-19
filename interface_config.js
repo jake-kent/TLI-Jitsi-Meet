@@ -87,5 +87,5 @@ var interfaceConfig = { // eslint-disable-line no-unused-vars
      *
      * @type {boolean}
      */
-    MOBILE_APP_PROMO: false
+    MOBILE_APP_PROMO: true
 };

@@ -126,7 +126,7 @@
     "unsupportedBrowser": {
         "appInstalled": "or if you already have it<br /><strong>then</strong>",
         "appNotInstalled": "You need <strong>__app__</strong> to join a conversation on your mobile",
-        "downloadApp": "Download the App",
+        "downloadApp": "Download the App and provide full room link when asked for room name",
         "joinConversation": "Join the conversation",
         "startConference": "Start a conference"
     },
